@@ -4,7 +4,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import java.util.HashSet;
 import java.util.List;
-class MainTest {
+class Tests {
     private List<BankAccount> accounts;
     @BeforeEach
     void setUp() {
